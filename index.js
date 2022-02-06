@@ -89,5 +89,5 @@ function openConsole() {
     })
 }
 
-Init()
+// Init()
 module.exports = AnagramReader
