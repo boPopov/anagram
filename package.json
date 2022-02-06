@@ -1,0 +1,20 @@
+{
+  "name": "anagram",
+  "version": "1.0.0",
+  "description": "Anagram solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Anagram",
+    "Word",
+    "Finder"
+  ],
+  "author": "Bojan Popov",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.5.0"
+  }
+}
