@@ -16,9 +16,14 @@
   If you already have npm installed on your machine use the following command: `npm install npm@6.14.9`.
   
   If not, then download npm from the offical site, for your specific OS.
- 
-  If you don't have NodeJS installed, please check [Node version 14.15.3](https://nodejs.org/en/blog/release/v14.15.3/) where you have a list of specific OS.
-
+  
+  For NodeJS please install [NVM](https://github.com/nvm-sh/nvm#install--update-script)
+  After you install `nvm` run the following command:
+  ```
+  nvm use
+  ```
+  which will give you information about your node version and a command if you need to change it.
+  
 - After compliting the installation process, please check npm and node version with the following commands:
   ```
   npm -v 
