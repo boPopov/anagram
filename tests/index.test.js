@@ -1,17 +1,5 @@
 var AnagramReader = require("../index.js")
 
-// //test test
-// test('First test', async () => {
-//     let res = 5-5
-//     expect(res).toStrictEqual(0)
-// })
-
-// //word formatting
-// test('Format a word', async () => {
-//     let formatWord = anagramReader.wordFormatting("banana");
-//     expect(formatWord).toBe("aaannb");
-// })
-
 describe("Anagram", () => {
     let anagramReader;
     let dictionary;
