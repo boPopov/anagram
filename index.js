@@ -23,7 +23,7 @@ class AnagramReader {
  * Start Reading function which starts the process of reading the wordlist.txt file.
  */
 AnagramReader.prototype.startReading = function(myDictionary) {
-    console.log("Starting file reading process, please give us a second.")
+    console.log("Starting file reading process, please give us a moment.")
     const startReadingTime = new Date();
     let word;
     this.readLineInterface.on('line', function(line) {
